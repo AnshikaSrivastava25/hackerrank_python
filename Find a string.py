@@ -36,6 +36,7 @@ A range function is used to loop over some length:
 
 range (0, 5)
 Here, the range loops over  to .  is excluded.
+
 """
 
 def count_substring(string, sub_string):
