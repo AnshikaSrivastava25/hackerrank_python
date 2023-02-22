@@ -68,6 +68,7 @@ Customer 6: Size 10 not available, so no purchase.
 Total money earned =  
 """
 
+
 from collections import Counter
 X = int(input())
 N = map(int,input().split())
